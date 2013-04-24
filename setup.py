@@ -5,7 +5,7 @@ from gplus_comments import __version__
 
 setup(
     name='django-gplus-comments',
-    version='0.0.1',
+    version=__version__,
     description='Integrate Google+ comments into your Django website',
     author='Adnane Belmadiaf',
     author_email='adnane002@gmail.com',
