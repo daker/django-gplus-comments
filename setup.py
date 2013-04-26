@@ -10,7 +10,7 @@ setup(
     author='Adnane Belmadiaf',
     author_email='adnane002@gmail.com',
     url='https://github.com/daker/django-gplus-comments',
-    license=__version__,
+    license="LICENSE.txt",
     classifiers=[
         'Development Status :: 5 - Production/Stable',
         'Environment :: Web Environment',
